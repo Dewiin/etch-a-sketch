@@ -1,5 +1,6 @@
 body {
     font-family: "Audiowide", sans-serif;
+    background: #c9b5b3;
 }
 
 #title {
@@ -12,15 +13,29 @@ body {
     font-size: 16px;
 }
 
-#content {
+#grid {
     height: 500px;
     width: 500px;
-    margin: auto;
+    border: 1px solid gray;
+    background: white;
+}
+
+#favcolor {
+    width: 100px;
+    height: 100px;
+}
+
+#content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
 }
 
 .reset {
     display: flex;
     justify-content: center;
+    gap: 50px;
     align-items: center;
     margin: 50px;
 }
