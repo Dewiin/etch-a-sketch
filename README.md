@@ -26,7 +26,7 @@ A fun and interactive drawing app built using HTML, CSS, and JavaScript. Create 
 ## Features
 - 🖌️ Draw on Hover – Color cells by simply moving your cursor
 - 🎨 Customizable Grid – Adjust grid size for finer or broader strokes
-- 🌈 Color Modes – Choose between solid colors, random colors, or eraser mode
+- 🌈 Color Modes – Choose between solid colors, random colors, or eraser mode 
 - 🔄 Reset Button – Clear the canvas and start fresh
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
